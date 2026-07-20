@@ -1,0 +1,11 @@
+## Requirements
+
+- Python 3.10+
+- NumPy
+- Pandas
+
+### Install Dependencies
+
+```bash
+pip install numpy pandas
+```
